@@ -125,7 +125,7 @@ Meet pages The simplest and fastest way to build web UI for your dashboard or ap
 **More here : https://bit.ly/3yGkIPH**
 
 ---
-
-Thank you for choosing our Admin Dashboard Templates! We hope they help you build amazing applications.
+About Me
+I am a software engineer with extensive experience in integrating admin dashboard templates into various applications. I can help you seamlessly incorporate any of these templates, or others, into your projects to ensure they are functional and visually appealing checkout my upwork https://bit.ly/4bURzOI .
 
 
