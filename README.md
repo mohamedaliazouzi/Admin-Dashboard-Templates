@@ -56,7 +56,8 @@ A sleek and modern template with a focus on simplicity and usability.
 - Angular
 - Asp.Net
 - Django
-- Laravel 
+- Laravel
+
 **More here:https://bit.ly/4e3qDOL**
 
 
@@ -72,7 +73,8 @@ Vuexyis the most developer friendly & highly customizable Admin Dashboard Templa
 - Next.js
 - Laravel
 - ASP.NET
-- Django 
+- Django
+  
 **More here : https://bit.ly/4bUNNVy**
 
 ### 3. Fuse Angular  
